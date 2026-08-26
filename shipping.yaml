@@ -81,7 +81,7 @@
       name: all
       login_user: root
       login_password: RoboShop@1
-      login_host: mysql.daws84s.cfd
+      login_host: mysql.kodari.online
       state: import
       target: "{{ item }}"
     loop:
