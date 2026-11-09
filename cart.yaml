@@ -1,7 +1,7 @@
 
 - name: configure cart component 
   hosts: cart  
-  become: yes
+  become: yes 
   tasks:
   # play-1
   - name: disable default nodejs
