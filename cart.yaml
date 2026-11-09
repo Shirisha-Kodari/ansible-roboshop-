@@ -1,6 +1,6 @@
 
 - name: configure cart component
-  hosts: cart 
+  hosts: cart  
   become: yes
   tasks:
   # play-1
